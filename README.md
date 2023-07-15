@@ -7,6 +7,7 @@
 3. Stop playing
 4. Start playing
 5. Bar for track
+6. Change theme
 
 ## Show
 
