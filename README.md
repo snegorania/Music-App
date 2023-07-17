@@ -24,3 +24,16 @@
 - sass
 - typescript
 
+## Song list
+
+1. Blur - Song 2
+2. Stone Soure - Through the glass
+3. Pink - Whataya want From Me?
+4. Metallica - Unforgiven
+5. Three Days Grace - Never Too Late
+6. Cranberries - Zombie
+7. Nirvana - Polly
+8. Green Day - Holiday
+9. Sum 41 - Pieces
+10. Ed Sheeran - Castle on the hill  
+
