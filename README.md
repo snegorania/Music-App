@@ -26,14 +26,14 @@
 
 ## Song list
 
-1. Blur - Song 2
-2. Stone Soure - Through the glass
-3. Pink - Whataya want From Me?
-4. Metallica - Unforgiven
-5. Three Days Grace - Never Too Late
-6. Cranberries - Zombie
-7. Nirvana - Polly
-8. Green Day - Holiday
-9. Sum 41 - Pieces
-10. Ed Sheeran - Castle on the hill  
+1. Blur - Song 2 - Blur
+2. Stone Soure - Through the glass - Come What(ever) May
+3. Pink - Whataya want From Me? - Greatest Hits... So Far!!!
+4. Metallica - Unforgiven - Metallica (The Black Album) 
+5. Three Days Grace - Never Too Late - One-X
+6. Cranberries - Zombie - No Need to Argue
+7. Nirvana - Polly - Nevermind
+8. Green Day - Wake Me Up When September Ends - American idiot
+9. Sum 41 - Pieces - Chuck
+10. Dysfunctional you - Shinedown - Planet zero   
 
